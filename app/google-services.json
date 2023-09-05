@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "109911538919",
+    "project_id": "ui-espresso-testing-d2dba",
+    "storage_bucket": "ui-espresso-testing-d2dba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109911538919:android:52883690618c5f3110b642",
+        "android_client_info": {
+          "package_name": "com.example.exprresso"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109911538919-l40n5jv4kjmop7598iui6t7pvkm7lllr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXWvaU6CCazgcS0VmtwrhXwwMxfFSoFUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109911538919-l40n5jv4kjmop7598iui6t7pvkm7lllr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
